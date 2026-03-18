@@ -1,11 +1,11 @@
 # Privacy Policy
 
-**EmergencyApp by NexGenHealth**
-*Last updated: March 16, 2026*
+**Family Emergency App by NexGenHealth**
+*Last updated: March 18, 2026*
 
 ## Introduction
 
-NexGenHealth ("we", "our", "us") operates the EmergencyApp mobile application ("the App"). This privacy policy explains how we collect, use, and protect your personal information when you use our App.
+NexGenHealth ("we", "our", "us") operates the Family Emergency App mobile application ("the App"). This privacy policy explains how we collect, use, and protect your personal information when you use our App.
 
 Contact: NexGenHealth.io@gmail.com
 
